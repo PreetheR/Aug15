@@ -1,0 +1,12 @@
+GitHub
+
+Version Control System
+
+clone the git project from web to local
+
+git status - add a file 
+git add file.py
+git commit -m "First file added" (m - message) (to lock)
+git push - to move to web
+git pull - retrive from web
+git add -A or git add . (to push everything in the folder)
